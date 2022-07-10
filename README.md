@@ -3,7 +3,7 @@
 ```Python
 My_fullname= "Kamilla Nascimento Da Fonseca"
 Let_Fluent_languages= "Portuguese, Englhish+-"
-Let_programming_Languages = "Python in desenvolviment"
+Let_programming_Languages = "Python in development"
 ```
 - 💻 Attending high school, and being part of an online course on how to develop programs in ***PYTHON***.
 - 🎨 I practice ***drawings***, nothing professional, just as a hobby for now.
